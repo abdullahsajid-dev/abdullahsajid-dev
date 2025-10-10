@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abdullahsajid.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-junaidasifdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-abdullahsajiddev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/abdullahsajid-dev?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/junaidasif-dev?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/abdullahsajid-dev?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   </a>
   <a href="https://github.com/abdullahsajid-dev" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=abdullahsajid-dev&style=for-the-badge&color=0A66C2" alt="Profile Views" />
