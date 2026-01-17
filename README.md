@@ -43,13 +43,6 @@
 | *Token & Cost Dashboard* | Usage + latency tracking panel | Streamlit · API Logs | Visibility into spend |
 
 ---
-### 📊 Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abdullahsajid-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsajid-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 ### 🛠 Core Tech (Focused)
 <p align="center">
   <!-- Python -->
